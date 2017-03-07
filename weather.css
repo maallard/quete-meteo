@@ -1,0 +1,9 @@
+.weather.hidden, .message.hidden {
+    opacity: 0;
+    transition: opacity 1s ease;
+}
+
+.weather, .message {
+    opacity: 1;
+    transition: opacity 1s ease;
+}

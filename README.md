@@ -1,4 +1,4 @@
-# Comment faire marcher le site
+# Comment visualiser le site
 ```
 git clone git@github.com:maallard/quete-http-request.git
 cd quete-http-request

@@ -7,3 +7,17 @@
     opacity: 1;
     transition: opacity 1s ease;
 }
+
+.italics {
+    font-style: italic;
+}
+
+.night .segment, .day{
+    background-color: #1f263b!important;
+    color: white;
+}
+
+.day .segment, .night{
+    background-color: gold!important;
+    color: darkblue;
+}

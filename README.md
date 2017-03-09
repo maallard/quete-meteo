@@ -1,6 +1,7 @@
 # Comment visualiser le site
+
 ```
-git clone git@github.com:maallard/quete-http-request.git
+git clone git@github.com:maallard/quete-meteo.git
 cd quete-http-request
 python -m SimpleHTTPServer
 ```
